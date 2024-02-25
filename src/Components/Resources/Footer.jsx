@@ -29,7 +29,7 @@ function Footer() {
           sx={{ display: "flex", justifyContent: "center", marginTop: "1rem" }}
         >
           <a
-            href="https://pt-br.facebook.com/caixa/"
+            href="https://pt-br.facebook.com/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -38,7 +38,7 @@ function Footer() {
             />
           </a>
           <a
-            href="https://twitter.com/i/flow/login?redirect_after_login=%2FCaixa"
+            href="https://twitter.com/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -47,7 +47,7 @@ function Footer() {
             />
           </a>
           <a
-            href="https://www.instagram.com/caixa/"
+            href="https://www.instagram.com/"
             target="_blank"
             rel="noopener noreferrer"
           >
