@@ -7,9 +7,9 @@ import { TakeLoan } from "../Loan";
 import { SimulateDialog } from "../Dialogs";
 
 const images = [
-  "./images/hand_holding.png",
-  "./images/user_shield.png",
-  "./images/chart_line.png",
+  "/Images/hand_holding.png",
+  "/Images/user_shield.png",
+  "/Images/chart_line.png",
 ];
 
 const useStyles = makeStyles({

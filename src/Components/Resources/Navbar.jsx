@@ -61,7 +61,7 @@ function Navbar({ login, handleLogin, logout }) {
                   <Avatar
                     style={{ marginRight: 8, backgroundColor: "white" }}
                     alt="Matias"
-                    src="images/matias.png"
+                    src="/Images/matias.png"
                   />
                   <Typography color="white" variant="body1">
                     Guilherme Thomé

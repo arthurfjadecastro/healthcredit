@@ -28,7 +28,7 @@ function Client() {
           item
           xs={6}
           style={{
-            backgroundImage: `url(${"images/back_three.png"})`,
+            backgroundImage: `url(${"/Images/back_three.png"})`,
             backgroundSize: "intehirt",
             backgroundPosition: "left",
             backgroundRepeat: "no-repeat",
