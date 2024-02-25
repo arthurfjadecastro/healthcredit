@@ -1,0 +1,1 @@
+export {default as Adm} from "./Adm"

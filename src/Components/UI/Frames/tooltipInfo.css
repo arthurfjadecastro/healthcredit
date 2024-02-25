@@ -1,0 +1,7 @@
+.MuiIconButton-root:hover {
+  background-color: transparent;
+}
+
+button.MuiIconButton-root:hover {
+  background-color: transparent;
+}
