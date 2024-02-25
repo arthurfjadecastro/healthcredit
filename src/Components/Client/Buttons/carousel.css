@@ -1,0 +1,18 @@
+.options-grid {
+  display: grid;
+  grid-template-columns: repeat(3);
+  gap: 10px;
+}
+
+.active {
+  background: #f39200 !important;
+  color: white;
+}
+
+.button-transition {
+  transition: transform 0.3s;
+}
+
+.button-transition:hover {
+  transform: scale(1.1);
+}

@@ -4,6 +4,7 @@ import { RenderIf } from "../../../Utils";
 import { Card, CardMedia } from "@mui/material";
 import { makeStyles } from "@mui/styles";
 import { TakeLoan } from "../Loan";
+import { SimulateDialog } from "../Dialogs";
 
 const images = [
   "./images/hand_holding.png",
@@ -117,7 +118,8 @@ function ClientFlow({ currentPage, handlePageChange }) {
           </Grid>
         </Grid>
       </Grid>
-      <TakeLoan isOpen={isOpenDialog} setClose={setIsOpenDialog} />
+      {/* <TakeLoan isOpen={isOpenDialog} setClose={setIsOpenDialog} /> */}
+      <SimulateDialog isOpen={isOpenDialog} setClose={setIsOpenDialog} />
     </>
   );
 }

@@ -1,0 +1,11 @@
+.active2 {
+  background-color: #005ca9 !important;
+  color: white !important;
+  border: 1px solid black !important;
+}
+
+.disable {
+  background-color: white !important;
+  color: black !important;
+  border: 1px solid black !important;
+}
