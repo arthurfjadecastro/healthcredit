@@ -64,7 +64,7 @@ function Navbar({ login, handleLogin, logout }) {
                     src="images/matias.png"
                   />
                   <Typography color="white" variant="body1">
-                    Matias Adrian
+                    Guilherme Thomé
                   </Typography>
                 </IconButton>
               </Tooltip>
